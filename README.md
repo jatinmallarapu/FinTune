@@ -20,6 +20,8 @@ Labelled statements → rule-family grouping → deterministic baseline → conf
 
 The synthetic baseline misses implicit requirements and permissions, which identifies two cases to include in a reviewed evaluation set.
 
+Run `python fintune.py split examples/synthetic.json` to inspect family assignments and the split hash. Record family and class counts before using a split for model comparison. This fixture is too small to assess balance or held-out generalization.
+
 ## Quickstart
 
 Python 3.11 or newer.
