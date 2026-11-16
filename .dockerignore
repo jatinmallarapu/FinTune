@@ -1,0 +1,7 @@
+# Include only paths needed to package fintune and execute its sample.
+*
+!README.md
+!pyproject.toml
+!fintune.py
+!examples/
+!examples/**

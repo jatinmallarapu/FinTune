@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ex01",
+    "family": "records",
+    "text": "A firm must retain trade records.",
+    "label": "obligation"
+  },
+  {
+    "id": "ex02",
+    "family": "records",
+    "text": "A firm must not erase the audit log.",
+    "label": "prohibition"
+  },
+  {
+    "id": "ex03",
+    "family": "disclosure",
+    "text": "A member may file the disclosure electronically.",
+    "label": "permission"
+  },
+  {
+    "id": "ex04",
+    "family": "disclosure",
+    "text": "Document means a written filing.",
+    "label": "definition"
+  },
+  {
+    "id": "ex05",
+    "family": "context",
+    "text": "The agency published its annual report.",
+    "label": "other"
+  },
+  {
+    "id": "ex06",
+    "family": "supervision",
+    "text": "Staff are required to review flagged transactions.",
+    "label": "obligation"
+  },
+  {
+    "id": "ex07",
+    "family": "reporting",
+    "text": "The committee presented its findings on Tuesday.",
+    "label": "other"
+  },
+  {
+    "id": "ex08",
+    "family": "reporting",
+    "text": "A firm must notify its supervisory officer.",
+    "label": "obligation"
+  },
+  {
+    "id": "ex09",
+    "family": "review",
+    "text": "The supervisor is permitted to request supporting evidence.",
+    "label": "permission"
+  },
+  {
+    "id": "ex10",
+    "family": "review",
+    "text": "A firm shall not omit the correction notice.",
+    "label": "prohibition"
+  }
+]
